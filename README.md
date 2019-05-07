@@ -1,5 +1,7 @@
 # Preprocess case and control cohorts before running CAF
 
+Note this is a first commit of what I'm currently working on right now at CGR in Astrazeneca ...
+
 ## Objective
 The idea of this pipeline is to preprocess data before running the collapsing analysis (CAF, https://confluence.astrazeneca.net/display/CFGR/Collapsing+Analysis). 
 
